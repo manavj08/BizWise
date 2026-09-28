@@ -1,0 +1,12 @@
+category,item,unit,low,high,source
+dairy,Cow milk – cooperative rate,litre,34,38,Cooperative rate card
+dairy,Cow milk – direct retail,litre,48,54,Field survey
+dairy,Paneer – block town,kg,320,360,Field survey
+kirana,Average bill per visit,visit,80,150,Field survey
+tailoring,Blouse stitching,piece,150,300,Field survey
+tailoring,School uniform set,set,350,500,Field survey
+flour_mill,Wheat grinding,kg,3,5,Field survey
+mobile_repair,Screen replacement (basic),job,600,1200,Field survey
+poultry,Live broiler – trader rate,kg,90,120,Agmarknet / traders
+tea_stall,Cup of tea,cup,10,15,Field survey
+medical,Average bill per visit,visit,150,300,Field survey

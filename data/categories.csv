@@ -1,0 +1,9 @@
+category,label_en,label_hi,label_mr,households_per_unit,setup_cost_min,setup_cost_typical,monthly_profit_typical,monthly_running_cost,channels,strength,weakness
+dairy,Dairy,डेयरी,दुग्ध व्यवसाय,45,60000,120000,7000,2500,Cooperative collection centre; doorstep sale; sweet shops in block town,Daily cash flow; cooperative is an assured buyer,Animal illness can halve income
+kirana,Kirana store,किराना दुकान,किराणा दुकान,110,150000,400000,15000,6000,Walk-in customers; credit sales to regular families,Steady daily demand for essentials,Thin margins; stock ties up capital
+tailoring,Tailoring,सिलाई,शिवणकाम,220,40000,90000,9000,1500,Walk-in orders; school uniform contracts; wedding season,Low setup cost; skill-based,Seasonal peaks and lean months
+flour_mill,Flour mill,आटा चक्की,पिठाची गिरणी,400,120000,250000,12000,4000,Walk-in grinding; bulk grinding for shops,Essential daily service,High electricity cost; machine downtime
+mobile_repair,Mobile repair,मोबाइल रिपेयर,मोबाइल दुरुस्ती,500,50000,120000,14000,3000,Walk-in repairs; accessory sales,Growing smartphone use,Needs technical skill; spare-part supply from town
+poultry,Poultry (broiler),पोल्ट्री,कुक्कुटपालन,300,150000,350000,18000,9000,Traders; local meat shops; hotels on highway,Fast cycle (6–7 weeks),Disease risk; feed price swings
+tea_stall,Tea & snacks,चाय-नाश्ता,चहा-नाश्ता,150,25000,60000,8000,3000,Bus stop and market footfall,Very low setup cost,Depends on location footfall
+medical,Medical store,मेडिकल स्टोर,औषध दुकान,700,300000,600000,22000,8000,Walk-in; prescriptions from local clinic,"Stable, non-seasonal demand",Needs licensed pharmacist

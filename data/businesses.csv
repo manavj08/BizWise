@@ -1,0 +1,622 @@
+name,category,lat,lng,source,verified
+Dairy 1,dairy,18.90445,73.90376,FSSAI,yes
+Dairy 2,dairy,18.90147,73.90614,FSSAI,no
+Dairy 3,dairy,18.90517,73.90966,Udyam,no
+Dairy 4,dairy,18.90428,73.89922,FSSAI,no
+Dairy 5,dairy,18.90435,73.90539,Field survey,yes
+Dairy 6,dairy,18.90404,73.90507,OSM,no
+Dairy 7,dairy,18.90067,73.90275,Field survey,yes
+Dairy 8,dairy,18.90433,73.90303,Udyam,no
+Dairy 9,dairy,18.90653,73.90243,Field survey,yes
+Dairy 10,dairy,18.90346,73.90229,OSM,no
+Dairy 11,dairy,18.90908,73.9048,Field survey,yes
+Dairy 12,dairy,18.90365,73.90625,Field survey,yes
+Dairy 13,dairy,18.90486,73.90504,OSM,yes
+Dairy 14,dairy,18.90504,73.90461,OSM,yes
+Dairy 15,dairy,18.9067,73.90311,OSM,yes
+Dairy 16,dairy,18.90757,73.90254,Field survey,yes
+Dairy 17,dairy,18.90404,73.91067,FSSAI,yes
+Dairy 18,dairy,18.91038,73.90344,OSM,yes
+Dairy 19,dairy,18.90515,73.90654,Udyam,no
+Dairy 20,dairy,18.90666,73.90505,FSSAI,yes
+Kirana store 1,kirana,18.90279,73.89909,Udyam,no
+Kirana store 2,kirana,18.90902,73.9065,Field survey,yes
+Kirana store 3,kirana,18.90846,73.9013,Field survey,yes
+Kirana store 4,kirana,18.90301,73.90655,OSM,no
+Kirana store 5,kirana,18.90536,73.90517,OSM,yes
+Kirana store 6,kirana,18.90703,73.90573,OSM,yes
+Kirana store 7,kirana,18.90458,73.90551,OSM,no
+Tailoring 1,tailoring,18.90499,73.90599,FSSAI,yes
+Poultry (broiler) 1,poultry,18.90208,73.90532,OSM,yes
+Tea & snacks 1,tea_stall,18.90579,73.90345,OSM,yes
+Tea & snacks 2,tea_stall,18.8991,73.90389,OSM,no
+Tea & snacks 3,tea_stall,18.90483,73.90497,Field survey,yes
+Tea & snacks 4,tea_stall,18.90318,73.89958,FSSAI,yes
+Dairy 21,dairy,18.8898,73.87823,FSSAI,yes
+Dairy 22,dairy,18.89429,73.88119,Field survey,yes
+Dairy 23,dairy,18.8913,73.87683,Field survey,yes
+Dairy 24,dairy,18.88778,73.88156,FSSAI,yes
+Dairy 25,dairy,18.88917,73.8819,FSSAI,no
+Dairy 26,dairy,18.8835,73.8838,Field survey,yes
+Dairy 27,dairy,18.89518,73.87986,FSSAI,yes
+Dairy 28,dairy,18.88967,73.88315,OSM,no
+Dairy 29,dairy,18.89224,73.87665,Udyam,no
+Dairy 30,dairy,18.89354,73.88443,Field survey,yes
+Dairy 31,dairy,18.89034,73.87578,Field survey,yes
+Dairy 32,dairy,18.89051,73.88459,Field survey,yes
+Dairy 33,dairy,18.88985,73.87961,Field survey,yes
+Dairy 34,dairy,18.88717,73.88325,Field survey,yes
+Dairy 35,dairy,18.8914,73.88595,OSM,yes
+Kirana store 8,kirana,18.89229,73.88599,Field survey,yes
+Kirana store 9,kirana,18.88579,73.87627,FSSAI,no
+Kirana store 10,kirana,18.89002,73.8818,Field survey,yes
+Tea & snacks 5,tea_stall,18.89047,73.88706,FSSAI,yes
+Tea & snacks 6,tea_stall,18.8879,73.88089,FSSAI,yes
+Dairy 36,dairy,18.97549,73.95719,Udyam,no
+Dairy 37,dairy,18.97994,73.95518,Udyam,no
+Dairy 38,dairy,18.98092,73.95698,FSSAI,yes
+Dairy 39,dairy,18.97765,73.95654,OSM,yes
+Dairy 40,dairy,18.97335,73.9549,FSSAI,no
+Dairy 41,dairy,18.97838,73.95295,OSM,no
+Dairy 42,dairy,18.97738,73.9582,Field survey,yes
+Dairy 43,dairy,18.97467,73.9553,Field survey,yes
+Dairy 44,dairy,18.97225,73.9587,Field survey,yes
+Dairy 45,dairy,18.97446,73.95632,Field survey,yes
+Dairy 46,dairy,18.97485,73.95595,Udyam,no
+Dairy 47,dairy,18.98078,73.9533,Field survey,yes
+Dairy 48,dairy,18.97611,73.95594,Field survey,yes
+Dairy 49,dairy,18.98109,73.96082,OSM,yes
+Dairy 50,dairy,18.97767,73.95705,OSM,no
+Dairy 51,dairy,18.98158,73.95341,OSM,no
+Dairy 52,dairy,18.98024,73.96001,Field survey,yes
+Dairy 53,dairy,18.9788,73.9629,Field survey,yes
+Dairy 54,dairy,18.97514,73.95679,Field survey,yes
+Dairy 55,dairy,18.98041,73.96128,FSSAI,no
+Dairy 56,dairy,18.97836,73.9587,FSSAI,no
+Dairy 57,dairy,18.97752,73.95653,FSSAI,yes
+Dairy 58,dairy,18.97615,73.95502,Udyam,yes
+Dairy 59,dairy,18.97911,73.95019,Field survey,yes
+Dairy 60,dairy,18.97758,73.95727,OSM,no
+Dairy 61,dairy,18.97881,73.95788,FSSAI,no
+Dairy 62,dairy,18.97737,73.96202,OSM,no
+Dairy 63,dairy,18.97653,73.95295,OSM,yes
+Dairy 64,dairy,18.97377,73.95865,OSM,no
+Dairy 65,dairy,18.97891,73.95256,OSM,no
+Dairy 66,dairy,18.97791,73.95623,Udyam,yes
+Dairy 67,dairy,18.98076,73.95492,FSSAI,yes
+Dairy 68,dairy,18.97788,73.96007,OSM,yes
+Dairy 69,dairy,18.97774,73.95689,FSSAI,yes
+Dairy 70,dairy,18.97645,73.96148,Udyam,yes
+Dairy 71,dairy,18.97981,73.95683,FSSAI,yes
+Dairy 72,dairy,18.97325,73.95504,OSM,yes
+Dairy 73,dairy,18.98227,73.96043,Field survey,yes
+Dairy 74,dairy,18.97492,73.95667,Field survey,yes
+Dairy 75,dairy,18.97516,73.95646,Field survey,yes
+Dairy 76,dairy,18.97424,73.96205,Field survey,yes
+Dairy 77,dairy,18.97471,73.95302,FSSAI,yes
+Dairy 78,dairy,18.97788,73.95683,OSM,no
+Dairy 79,dairy,18.97848,73.95803,OSM,no
+Dairy 80,dairy,18.975,73.95148,FSSAI,yes
+Dairy 81,dairy,18.97585,73.95707,OSM,yes
+Dairy 82,dairy,18.97925,73.95615,Field survey,yes
+Dairy 83,dairy,18.97776,73.96022,Field survey,yes
+Dairy 84,dairy,18.97643,73.95819,OSM,yes
+Dairy 85,dairy,18.97465,73.95652,OSM,no
+Dairy 86,dairy,18.97764,73.9566,OSM,yes
+Dairy 87,dairy,18.9779,73.95661,FSSAI,yes
+Dairy 88,dairy,18.97401,73.95586,Field survey,yes
+Dairy 89,dairy,18.97675,73.95229,Field survey,yes
+Dairy 90,dairy,18.97651,73.95888,Field survey,yes
+Dairy 91,dairy,18.97749,73.95559,Field survey,yes
+Dairy 92,dairy,18.97778,73.95632,Field survey,yes
+Dairy 93,dairy,18.97723,73.95241,Field survey,yes
+Dairy 94,dairy,18.97677,73.95643,Udyam,no
+Dairy 95,dairy,18.97997,73.9518,Udyam,no
+Dairy 96,dairy,18.97613,73.95231,OSM,yes
+Dairy 97,dairy,18.9771,73.95725,OSM,no
+Dairy 98,dairy,18.97519,73.9539,Field survey,yes
+Kirana store 11,kirana,18.98072,73.95664,Field survey,yes
+Kirana store 12,kirana,18.97292,73.95648,Udyam,no
+Kirana store 13,kirana,18.9776,73.95613,FSSAI,yes
+Kirana store 14,kirana,18.97742,73.95481,OSM,no
+Kirana store 15,kirana,18.97149,73.95683,FSSAI,yes
+Kirana store 16,kirana,18.97809,73.95204,Field survey,yes
+Kirana store 17,kirana,18.98122,73.95857,OSM,yes
+Kirana store 18,kirana,18.97607,73.96124,Udyam,yes
+Kirana store 19,kirana,18.9776,73.95697,Field survey,yes
+Kirana store 20,kirana,18.97567,73.95245,FSSAI,no
+Tailoring 2,tailoring,18.9798,73.95868,Field survey,yes
+Poultry (broiler) 2,poultry,18.97753,73.9566,Field survey,yes
+Tea & snacks 7,tea_stall,18.97731,73.95955,OSM,no
+Tea & snacks 8,tea_stall,18.97648,73.95588,OSM,no
+Tea & snacks 9,tea_stall,18.98168,73.96127,Field survey,yes
+Tea & snacks 10,tea_stall,18.98007,73.95435,Field survey,yes
+Tea & snacks 11,tea_stall,18.97881,73.95564,Udyam,yes
+Tea & snacks 12,tea_stall,18.97762,73.95657,Udyam,yes
+Tea & snacks 13,tea_stall,18.97715,73.95735,FSSAI,no
+Tea & snacks 14,tea_stall,18.97764,73.95656,Field survey,yes
+Dairy 99,dairy,18.88994,73.9013,FSSAI,yes
+Dairy 100,dairy,18.88876,73.90404,Udyam,yes
+Dairy 101,dairy,18.88586,73.90689,OSM,yes
+Dairy 102,dairy,18.88512,73.9095,Field survey,yes
+Dairy 103,dairy,18.88613,73.90572,Udyam,yes
+Dairy 104,dairy,18.88854,73.90339,Field survey,yes
+Dairy 105,dairy,18.88279,73.90011,Field survey,yes
+Dairy 106,dairy,18.88063,73.90217,Field survey,yes
+Dairy 107,dairy,18.88624,73.90374,Udyam,no
+Dairy 108,dairy,18.88537,73.90826,OSM,no
+Dairy 109,dairy,18.88549,73.90422,FSSAI,yes
+Dairy 110,dairy,18.89089,73.90332,FSSAI,no
+Dairy 111,dairy,18.8845,73.90337,FSSAI,yes
+Kirana store 21,kirana,18.88737,73.90329,Udyam,yes
+Tea & snacks 15,tea_stall,18.88597,73.90458,OSM,yes
+Dairy 112,dairy,18.88646,73.91014,FSSAI,yes
+Dairy 113,dairy,18.88413,73.91849,FSSAI,yes
+Dairy 114,dairy,18.8882,73.91567,OSM,no
+Dairy 115,dairy,18.88907,73.91286,OSM,yes
+Dairy 116,dairy,18.88522,73.91703,FSSAI,no
+Dairy 117,dairy,18.89021,73.91199,OSM,yes
+Dairy 118,dairy,18.89003,73.91316,Udyam,no
+Dairy 119,dairy,18.88649,73.91605,Field survey,yes
+Dairy 120,dairy,18.88968,73.9117,Field survey,yes
+Dairy 121,dairy,18.8877,73.9171,OSM,no
+Dairy 122,dairy,18.8905,73.9144,Field survey,yes
+Dairy 123,dairy,18.88686,73.91175,Udyam,no
+Dairy 124,dairy,18.88654,73.91579,OSM,no
+Dairy 125,dairy,18.88514,73.92011,OSM,yes
+Dairy 126,dairy,18.88521,73.91203,OSM,yes
+Dairy 127,dairy,18.88362,73.91432,FSSAI,yes
+Dairy 128,dairy,18.89027,73.91631,FSSAI,yes
+Dairy 129,dairy,18.88276,73.91102,Field survey,yes
+Dairy 130,dairy,18.88678,73.9192,OSM,no
+Dairy 131,dairy,18.88493,73.92045,OSM,yes
+Dairy 132,dairy,18.88277,73.91822,FSSAI,no
+Dairy 133,dairy,18.88734,73.92215,OSM,yes
+Dairy 134,dairy,18.88539,73.9135,OSM,no
+Dairy 135,dairy,18.88183,73.91591,OSM,no
+Kirana store 22,kirana,18.88712,73.92148,OSM,no
+Kirana store 23,kirana,18.88826,73.91546,Udyam,yes
+Kirana store 24,kirana,18.88527,73.91679,Field survey,yes
+Kirana store 25,kirana,18.89012,73.92108,FSSAI,yes
+Tailoring 3,tailoring,18.88734,73.91635,OSM,yes
+Tea & snacks 16,tea_stall,18.88369,73.92151,OSM,no
+Tea & snacks 17,tea_stall,18.8911,73.91704,Field survey,yes
+Tea & snacks 18,tea_stall,18.88482,73.91785,FSSAI,yes
+Tea & snacks 19,tea_stall,18.88649,73.91607,FSSAI,no
+Dairy 136,dairy,18.8849,73.91655,Field survey,yes
+Dairy 137,dairy,18.88099,73.91773,OSM,yes
+Dairy 138,dairy,18.88776,73.91426,OSM,yes
+Dairy 139,dairy,18.89126,73.9166,FSSAI,no
+Dairy 140,dairy,18.89039,73.91676,OSM,yes
+Dairy 141,dairy,18.88546,73.9216,Field survey,yes
+Dairy 142,dairy,18.88271,73.92055,FSSAI,no
+Dairy 143,dairy,18.88542,73.91957,Field survey,yes
+Dairy 144,dairy,18.88539,73.91755,OSM,no
+Dairy 145,dairy,18.88185,73.91092,Field survey,yes
+Dairy 146,dairy,18.88573,73.91563,Udyam,no
+Dairy 147,dairy,18.88116,73.91963,FSSAI,yes
+Dairy 148,dairy,18.88851,73.91403,OSM,no
+Dairy 149,dairy,18.88775,73.91105,Field survey,yes
+Dairy 150,dairy,18.88392,73.91905,FSSAI,yes
+Dairy 151,dairy,18.89005,73.91795,OSM,no
+Dairy 152,dairy,18.88714,73.91612,OSM,no
+Dairy 153,dairy,18.88775,73.91519,Field survey,yes
+Dairy 154,dairy,18.88513,73.92203,OSM,yes
+Dairy 155,dairy,18.88492,73.91226,FSSAI,yes
+Dairy 156,dairy,18.88379,73.91357,Field survey,yes
+Dairy 157,dairy,18.8884,73.91137,Field survey,yes
+Dairy 158,dairy,18.88612,73.91479,FSSAI,no
+Dairy 159,dairy,18.88553,73.91299,OSM,yes
+Dairy 160,dairy,18.88659,73.91681,Field survey,yes
+Dairy 161,dairy,18.88403,73.91889,FSSAI,no
+Dairy 162,dairy,18.88609,73.91883,Field survey,yes
+Dairy 163,dairy,18.88982,73.91521,OSM,yes
+Dairy 164,dairy,18.88848,73.91086,Field survey,yes
+Dairy 165,dairy,18.88564,73.91573,OSM,yes
+Dairy 166,dairy,18.88039,73.91224,Field survey,yes
+Dairy 167,dairy,18.88727,73.91362,FSSAI,yes
+Dairy 168,dairy,18.89033,73.91372,OSM,no
+Dairy 169,dairy,18.8865,73.91952,FSSAI,yes
+Dairy 170,dairy,18.88567,73.91683,Udyam,no
+Dairy 171,dairy,18.88699,73.91557,FSSAI,no
+Dairy 172,dairy,18.88527,73.91661,OSM,no
+Dairy 173,dairy,18.8889,73.91688,OSM,yes
+Dairy 174,dairy,18.88348,73.91266,OSM,yes
+Dairy 175,dairy,18.88201,73.91796,FSSAI,yes
+Dairy 176,dairy,18.88342,73.92134,Udyam,yes
+Dairy 177,dairy,18.88743,73.91337,Field survey,yes
+Dairy 178,dairy,18.88646,73.91776,Field survey,yes
+Dairy 179,dairy,18.88699,73.91552,Field survey,yes
+Dairy 180,dairy,18.88685,73.91291,FSSAI,no
+Dairy 181,dairy,18.88723,73.91809,OSM,no
+Dairy 182,dairy,18.88911,73.91317,OSM,no
+Dairy 183,dairy,18.88337,73.9154,OSM,yes
+Dairy 184,dairy,18.88864,73.91389,OSM,yes
+Dairy 185,dairy,18.89067,73.91435,OSM,yes
+Dairy 186,dairy,18.89158,73.91449,Udyam,yes
+Dairy 187,dairy,18.88126,73.91947,Field survey,yes
+Dairy 188,dairy,18.88747,73.91178,OSM,no
+Dairy 189,dairy,18.88456,73.91631,Field survey,yes
+Dairy 190,dairy,18.88785,73.92051,OSM,yes
+Dairy 191,dairy,18.88328,73.91778,OSM,yes
+Dairy 192,dairy,18.88935,73.91255,OSM,no
+Dairy 193,dairy,18.89035,73.91667,Field survey,yes
+Dairy 194,dairy,18.88511,73.91501,Udyam,no
+Dairy 195,dairy,18.88402,73.91645,Udyam,yes
+Dairy 196,dairy,18.88179,73.91692,FSSAI,yes
+Dairy 197,dairy,18.88182,73.91575,OSM,no
+Dairy 198,dairy,18.88096,73.91682,OSM,yes
+Kirana store 26,kirana,18.88498,73.91583,OSM,yes
+Kirana store 27,kirana,18.88882,73.91633,Field survey,yes
+Kirana store 28,kirana,18.88566,73.91492,Field survey,yes
+Kirana store 29,kirana,18.88875,73.91661,Udyam,yes
+Kirana store 30,kirana,18.88964,73.92025,Field survey,yes
+Tailoring 4,tailoring,18.88753,73.91099,OSM,no
+Tailoring 5,tailoring,18.88869,73.91458,Field survey,yes
+Poultry (broiler) 3,poultry,18.88547,73.91582,Field survey,yes
+Tea & snacks 20,tea_stall,18.88483,73.92137,Field survey,yes
+Tea & snacks 21,tea_stall,18.8848,73.91546,Field survey,yes
+Tea & snacks 22,tea_stall,18.8856,73.91685,Udyam,yes
+Tea & snacks 23,tea_stall,18.88581,73.91569,OSM,no
+Dairy 199,dairy,18.90936,73.92961,OSM,no
+Dairy 200,dairy,18.90658,73.93399,Field survey,yes
+Dairy 201,dairy,18.90606,73.92893,Field survey,yes
+Dairy 202,dairy,18.90979,73.93068,Field survey,yes
+Dairy 203,dairy,18.90986,73.9282,FSSAI,no
+Dairy 204,dairy,18.90681,73.93367,Field survey,yes
+Dairy 205,dairy,18.91037,73.93335,Field survey,yes
+Dairy 206,dairy,18.90926,73.93042,FSSAI,no
+Dairy 207,dairy,18.9038,73.92735,Field survey,yes
+Dairy 208,dairy,18.9111,73.93073,OSM,yes
+Dairy 209,dairy,18.90559,73.93241,Udyam,no
+Dairy 210,dairy,18.90925,73.93158,Field survey,yes
+Dairy 211,dairy,18.90927,73.93071,FSSAI,yes
+Dairy 212,dairy,18.90949,73.93306,Udyam,no
+Dairy 213,dairy,18.90821,73.92976,Udyam,yes
+Dairy 214,dairy,18.90937,73.93695,OSM,yes
+Dairy 215,dairy,18.9119,73.92762,Field survey,yes
+Dairy 216,dairy,18.90891,73.93338,OSM,no
+Dairy 217,dairy,18.90704,73.93374,Field survey,yes
+Dairy 218,dairy,18.91171,73.92956,Field survey,yes
+Dairy 219,dairy,18.91042,73.92976,OSM,no
+Dairy 220,dairy,18.90933,73.93341,OSM,no
+Dairy 221,dairy,18.90906,73.93068,Field survey,yes
+Dairy 222,dairy,18.90941,73.93161,Field survey,yes
+Dairy 223,dairy,18.90711,73.92809,Field survey,yes
+Dairy 224,dairy,18.90873,73.93179,FSSAI,yes
+Dairy 225,dairy,18.91027,73.92491,Field survey,yes
+Dairy 226,dairy,18.90915,73.93067,Field survey,yes
+Dairy 227,dairy,18.90897,73.92761,Udyam,yes
+Dairy 228,dairy,18.9092,73.93141,OSM,yes
+Dairy 229,dairy,18.90752,73.92601,Field survey,yes
+Dairy 230,dairy,18.90868,73.93543,Udyam,yes
+Dairy 231,dairy,18.90421,73.92995,FSSAI,no
+Dairy 232,dairy,18.91039,73.937,Field survey,yes
+Dairy 233,dairy,18.90912,73.93081,OSM,no
+Dairy 234,dairy,18.90897,73.92441,FSSAI,no
+Dairy 235,dairy,18.90927,73.93289,Field survey,yes
+Dairy 236,dairy,18.90772,73.92678,Field survey,yes
+Dairy 237,dairy,18.90307,73.93196,Field survey,yes
+Dairy 238,dairy,18.91187,73.92707,FSSAI,no
+Dairy 239,dairy,18.90786,73.93427,OSM,no
+Dairy 240,dairy,18.90954,73.93043,OSM,yes
+Dairy 241,dairy,18.90974,73.9304,FSSAI,yes
+Dairy 242,dairy,18.90931,73.93076,Field survey,yes
+Dairy 243,dairy,18.90782,73.92672,Field survey,yes
+Dairy 244,dairy,18.90878,73.93047,FSSAI,no
+Dairy 245,dairy,18.91313,73.92725,OSM,no
+Dairy 246,dairy,18.91454,73.9286,OSM,yes
+Dairy 247,dairy,18.90982,73.93087,Field survey,yes
+Dairy 248,dairy,18.90572,73.92668,Field survey,yes
+Dairy 249,dairy,18.90821,73.93481,OSM,yes
+Dairy 250,dairy,18.91047,73.93556,FSSAI,yes
+Dairy 251,dairy,18.90912,73.93085,FSSAI,no
+Dairy 252,dairy,18.90813,73.93293,Field survey,yes
+Dairy 253,dairy,18.91101,73.92801,Field survey,yes
+Dairy 254,dairy,18.90896,73.93082,FSSAI,no
+Dairy 255,dairy,18.90851,73.92849,Udyam,yes
+Dairy 256,dairy,18.91371,73.93382,Field survey,yes
+Dairy 257,dairy,18.9102,73.93072,OSM,no
+Dairy 258,dairy,18.91529,73.93089,Udyam,yes
+Dairy 259,dairy,18.91114,73.93558,Udyam,yes
+Dairy 260,dairy,18.90879,73.93624,Field survey,yes
+Dairy 261,dairy,18.90952,73.93255,Field survey,yes
+Dairy 262,dairy,18.91155,73.93283,Field survey,yes
+Dairy 263,dairy,18.90925,73.93019,Field survey,yes
+Dairy 264,dairy,18.90568,73.92694,FSSAI,yes
+Kirana store 31,kirana,18.91394,73.93377,Field survey,yes
+Kirana store 32,kirana,18.90917,73.93087,FSSAI,no
+Kirana store 33,kirana,18.90684,73.93301,Field survey,yes
+Kirana store 34,kirana,18.9077,73.93109,Udyam,no
+Kirana store 35,kirana,18.90624,73.92673,FSSAI,yes
+Kirana store 36,kirana,18.90967,73.92985,Field survey,yes
+Kirana store 37,kirana,18.9114,73.93504,FSSAI,no
+Kirana store 38,kirana,18.9117,73.93346,Udyam,no
+Tailoring 6,tailoring,18.90875,73.93192,Field survey,yes
+Flour mill 1,flour_mill,18.90967,73.93157,OSM,yes
+Tea & snacks 24,tea_stall,18.91031,73.93051,Field survey,yes
+Tea & snacks 25,tea_stall,18.90975,73.93055,OSM,yes
+Tea & snacks 26,tea_stall,18.91084,73.92441,Field survey,yes
+Tea & snacks 27,tea_stall,18.91004,73.93344,Field survey,yes
+Tea & snacks 28,tea_stall,18.90931,73.9314,FSSAI,yes
+Dairy 265,dairy,18.96174,73.93144,Field survey,yes
+Dairy 266,dairy,18.96795,73.93385,Field survey,yes
+Dairy 267,dairy,18.96596,73.92876,Field survey,yes
+Dairy 268,dairy,18.96368,73.93017,Field survey,yes
+Dairy 269,dairy,18.96647,73.93423,Field survey,yes
+Dairy 270,dairy,18.96693,73.92565,Field survey,yes
+Dairy 271,dairy,18.9638,73.92632,Field survey,yes
+Dairy 272,dairy,18.96501,73.93424,Field survey,yes
+Dairy 273,dairy,18.96557,73.93177,Field survey,yes
+Dairy 274,dairy,18.96302,73.928,FSSAI,yes
+Dairy 275,dairy,18.96403,73.92935,FSSAI,no
+Dairy 276,dairy,18.96851,73.93711,Field survey,yes
+Dairy 277,dairy,18.96236,73.93479,Udyam,no
+Dairy 278,dairy,18.96588,73.93138,OSM,no
+Dairy 279,dairy,18.96022,73.9307,OSM,no
+Dairy 280,dairy,18.96541,73.92792,Udyam,no
+Dairy 281,dairy,18.96093,73.93071,FSSAI,no
+Dairy 282,dairy,18.96558,73.93017,FSSAI,no
+Dairy 283,dairy,18.96688,73.93137,FSSAI,yes
+Dairy 284,dairy,18.96471,73.93253,OSM,yes
+Dairy 285,dairy,18.96526,73.92879,FSSAI,yes
+Dairy 286,dairy,18.96603,73.92996,Field survey,yes
+Dairy 287,dairy,18.96676,73.9349,Field survey,yes
+Dairy 288,dairy,18.9667,73.93399,OSM,no
+Dairy 289,dairy,18.96271,73.92742,Udyam,no
+Dairy 290,dairy,18.9675,73.93111,FSSAI,no
+Dairy 291,dairy,18.96818,73.92645,Udyam,yes
+Dairy 292,dairy,18.96855,73.93404,Field survey,yes
+Dairy 293,dairy,18.96743,73.92954,FSSAI,yes
+Dairy 294,dairy,18.96468,73.93221,OSM,yes
+Dairy 295,dairy,18.96523,73.93617,OSM,yes
+Dairy 296,dairy,18.96339,73.93284,Field survey,yes
+Dairy 297,dairy,18.96341,73.9348,Field survey,yes
+Dairy 298,dairy,18.97116,73.93345,Field survey,yes
+Dairy 299,dairy,18.96731,73.92554,OSM,no
+Dairy 300,dairy,18.97009,73.93185,OSM,no
+Dairy 301,dairy,18.96611,73.93582,OSM,yes
+Dairy 302,dairy,18.96635,73.92991,FSSAI,yes
+Dairy 303,dairy,18.96757,73.92562,OSM,no
+Dairy 304,dairy,18.96685,73.92747,Field survey,yes
+Dairy 305,dairy,18.96743,73.92566,Field survey,yes
+Dairy 306,dairy,18.96567,73.93022,Udyam,no
+Dairy 307,dairy,18.96815,73.92948,Udyam,yes
+Dairy 308,dairy,18.96706,73.93265,Udyam,yes
+Dairy 309,dairy,18.96792,73.9339,Udyam,yes
+Dairy 310,dairy,18.96832,73.92871,OSM,no
+Dairy 311,dairy,18.96338,73.93026,Field survey,yes
+Dairy 312,dairy,18.96237,73.93542,FSSAI,no
+Dairy 313,dairy,18.9658,73.93107,Field survey,yes
+Dairy 314,dairy,18.96597,73.93133,Field survey,yes
+Dairy 315,dairy,18.96327,73.93689,Field survey,yes
+Dairy 316,dairy,18.96291,73.93178,Field survey,yes
+Dairy 317,dairy,18.96607,73.93123,Field survey,yes
+Dairy 318,dairy,18.96748,73.92972,FSSAI,yes
+Dairy 319,dairy,18.96653,73.92797,OSM,yes
+Dairy 320,dairy,18.9636,73.93052,Field survey,yes
+Dairy 321,dairy,18.96697,73.92972,FSSAI,no
+Dairy 322,dairy,18.9644,73.93138,Field survey,yes
+Kirana store 39,kirana,18.96368,73.93607,FSSAI,yes
+Kirana store 40,kirana,18.96366,73.92852,Field survey,yes
+Kirana store 41,kirana,18.96607,73.93119,Field survey,yes
+Kirana store 42,kirana,18.96938,73.93257,FSSAI,yes
+Kirana store 43,kirana,18.96716,73.93085,Field survey,yes
+Kirana store 44,kirana,18.96711,73.92719,Field survey,yes
+Kirana store 45,kirana,18.96324,73.92873,Field survey,yes
+Kirana store 46,kirana,18.96249,73.92882,Field survey,yes
+Kirana store 47,kirana,18.96544,73.93022,Udyam,no
+Kirana store 48,kirana,18.96638,73.93206,OSM,no
+Tailoring 7,tailoring,18.9633,73.93466,Field survey,yes
+Tailoring 8,tailoring,18.96152,73.92946,FSSAI,yes
+Flour mill 2,flour_mill,18.96429,73.93235,Field survey,yes
+Tea & snacks 29,tea_stall,18.96629,73.93163,Field survey,yes
+Tea & snacks 30,tea_stall,18.96927,73.92956,FSSAI,yes
+Tea & snacks 31,tea_stall,18.96406,73.93004,Field survey,yes
+Tea & snacks 32,tea_stall,18.96,73.93246,FSSAI,yes
+Tea & snacks 33,tea_stall,18.96707,73.93563,OSM,yes
+Tea & snacks 34,tea_stall,18.9661,73.93142,OSM,no
+Dairy 323,dairy,18.95451,73.89736,Field survey,yes
+Dairy 324,dairy,18.95354,73.89565,OSM,yes
+Dairy 325,dairy,18.95258,73.89224,Field survey,yes
+Dairy 326,dairy,18.95767,73.89972,Field survey,yes
+Dairy 327,dairy,18.94937,73.89843,Field survey,yes
+Dairy 328,dairy,18.95526,73.89688,Field survey,yes
+Dairy 329,dairy,18.95377,73.89727,Field survey,yes
+Dairy 330,dairy,18.95822,73.89987,FSSAI,no
+Dairy 331,dairy,18.95437,73.89641,Udyam,yes
+Dairy 332,dairy,18.95163,73.89615,FSSAI,no
+Dairy 333,dairy,18.95397,73.89634,FSSAI,no
+Dairy 334,dairy,18.95025,73.89933,FSSAI,no
+Dairy 335,dairy,18.95497,73.8911,Udyam,yes
+Dairy 336,dairy,18.95408,73.89719,Field survey,yes
+Kirana store 49,kirana,18.95205,73.8959,Field survey,yes
+Kirana store 50,kirana,18.94948,73.89398,FSSAI,yes
+Tea & snacks 35,tea_stall,18.95265,73.90253,OSM,yes
+Tea & snacks 36,tea_stall,18.95142,73.89581,Field survey,yes
+Dairy 337,dairy,18.94963,73.94981,Field survey,yes
+Dairy 338,dairy,18.94711,73.95873,Field survey,yes
+Dairy 339,dairy,18.94561,73.95003,Field survey,yes
+Dairy 340,dairy,18.94953,73.95614,Udyam,no
+Dairy 341,dairy,18.94765,73.95362,Field survey,yes
+Dairy 342,dairy,18.94649,73.95399,Field survey,yes
+Dairy 343,dairy,18.94844,73.95795,FSSAI,no
+Dairy 344,dairy,18.94282,73.95629,OSM,no
+Dairy 345,dairy,18.94818,73.96008,Udyam,no
+Dairy 346,dairy,18.94212,73.95416,Udyam,no
+Dairy 347,dairy,18.94807,73.95614,OSM,no
+Dairy 348,dairy,18.94555,73.95401,FSSAI,no
+Dairy 349,dairy,18.94855,73.95523,Field survey,yes
+Dairy 350,dairy,18.9495,73.9565,Field survey,yes
+Dairy 351,dairy,18.95041,73.95932,Udyam,yes
+Dairy 352,dairy,18.9509,73.95541,OSM,no
+Dairy 353,dairy,18.94221,73.95546,Udyam,yes
+Dairy 354,dairy,18.94326,73.9573,Field survey,yes
+Dairy 355,dairy,18.94967,73.95031,Field survey,yes
+Dairy 356,dairy,18.94921,73.95536,OSM,yes
+Kirana store 51,kirana,18.94735,73.95484,Field survey,yes
+Kirana store 52,kirana,18.95038,73.95396,Field survey,yes
+Kirana store 53,kirana,18.94732,73.95471,FSSAI,yes
+Kirana store 54,kirana,18.94738,73.96135,Udyam,no
+Tailoring 9,tailoring,18.94435,73.95774,FSSAI,yes
+Tailoring 10,tailoring,18.95373,73.9546,OSM,yes
+Poultry (broiler) 4,poultry,18.95061,73.9498,OSM,no
+Tea & snacks 37,tea_stall,18.95171,73.95455,OSM,yes
+Tea & snacks 38,tea_stall,18.95206,73.95307,Field survey,yes
+Tea & snacks 39,tea_stall,18.94607,73.95388,Field survey,yes
+Tea & snacks 40,tea_stall,18.94735,73.95559,FSSAI,yes
+Tea & snacks 41,tea_stall,18.94914,73.95776,OSM,yes
+Dairy 357,dairy,18.9261,73.9284,OSM,no
+Dairy 358,dairy,18.92584,73.9233,Field survey,yes
+Dairy 359,dairy,18.92815,73.92846,FSSAI,yes
+Dairy 360,dairy,18.92776,73.91871,Field survey,yes
+Dairy 361,dairy,18.92305,73.92645,Field survey,yes
+Dairy 362,dairy,18.92248,73.92161,OSM,yes
+Dairy 363,dairy,18.92449,73.92353,Udyam,yes
+Dairy 364,dairy,18.92401,73.92967,FSSAI,yes
+Dairy 365,dairy,18.92548,73.92237,FSSAI,yes
+Dairy 366,dairy,18.92329,73.92688,Field survey,yes
+Dairy 367,dairy,18.92528,73.9238,OSM,no
+Dairy 368,dairy,18.92559,73.92822,Udyam,yes
+Dairy 369,dairy,18.92506,73.92554,FSSAI,no
+Dairy 370,dairy,18.93017,73.92086,OSM,yes
+Dairy 371,dairy,18.92986,73.92601,Field survey,yes
+Kirana store 55,kirana,18.93071,73.92456,Field survey,yes
+Kirana store 56,kirana,18.92594,73.92565,OSM,no
+Kirana store 57,kirana,18.92587,73.92713,FSSAI,no
+Kirana store 58,kirana,18.92333,73.92327,OSM,yes
+Tailoring 11,tailoring,18.92605,73.92838,OSM,yes
+Tea & snacks 42,tea_stall,18.92355,73.91996,Field survey,yes
+Tea & snacks 43,tea_stall,18.92566,73.92761,OSM,no
+Dairy 372,dairy,18.87862,73.8431,FSSAI,no
+Dairy 373,dairy,18.87304,73.8437,OSM,no
+Dairy 374,dairy,18.88057,73.84115,FSSAI,yes
+Dairy 375,dairy,18.87497,73.84755,OSM,yes
+Dairy 376,dairy,18.88224,73.84356,Udyam,yes
+Dairy 377,dairy,18.88085,73.8458,Field survey,yes
+Dairy 378,dairy,18.8819,73.83936,FSSAI,no
+Dairy 379,dairy,18.8785,73.8409,OSM,no
+Dairy 380,dairy,18.87248,73.84366,Udyam,no
+Dairy 381,dairy,18.88185,73.8439,Field survey,yes
+Dairy 382,dairy,18.87907,73.8448,OSM,yes
+Dairy 383,dairy,18.88355,73.84446,OSM,no
+Dairy 384,dairy,18.87971,73.84358,Udyam,no
+Dairy 385,dairy,18.87752,73.84011,OSM,no
+Dairy 386,dairy,18.88283,73.84478,OSM,yes
+Dairy 387,dairy,18.87791,73.84672,OSM,yes
+Dairy 388,dairy,18.87777,73.84294,Field survey,yes
+Kirana store 59,kirana,18.8784,73.83962,OSM,no
+Kirana store 60,kirana,18.87397,73.84747,FSSAI,no
+Tea & snacks 44,tea_stall,18.87772,73.84482,FSSAI,no
+Dairy 389,dairy,18.86559,73.84717,OSM,no
+Dairy 390,dairy,18.86817,73.84904,OSM,yes
+Dairy 391,dairy,18.86002,73.8548,Udyam,yes
+Dairy 392,dairy,18.85991,73.85154,OSM,yes
+Dairy 393,dairy,18.86364,73.84525,Field survey,yes
+Dairy 394,dairy,18.86408,73.84769,Field survey,yes
+Dairy 395,dairy,18.86809,73.85288,Field survey,yes
+Dairy 396,dairy,18.86191,73.85003,FSSAI,no
+Dairy 397,dairy,18.85841,73.84738,FSSAI,no
+Dairy 398,dairy,18.86524,73.85073,FSSAI,yes
+Dairy 399,dairy,18.86561,73.85458,Udyam,no
+Dairy 400,dairy,18.86227,73.85502,Udyam,no
+Dairy 401,dairy,18.86331,73.85231,OSM,yes
+Dairy 402,dairy,18.86203,73.85425,OSM,yes
+Dairy 403,dairy,18.86447,73.84854,Field survey,yes
+Dairy 404,dairy,18.86053,73.84855,OSM,no
+Dairy 405,dairy,18.85986,73.85071,Field survey,yes
+Dairy 406,dairy,18.86155,73.85452,OSM,yes
+Dairy 407,dairy,18.86024,73.85391,Udyam,yes
+Dairy 408,dairy,18.86407,73.84982,OSM,no
+Dairy 409,dairy,18.86197,73.85482,Field survey,yes
+Dairy 410,dairy,18.86289,73.84967,OSM,yes
+Dairy 411,dairy,18.85753,73.85377,OSM,yes
+Dairy 412,dairy,18.86238,73.8487,OSM,yes
+Dairy 413,dairy,18.86219,73.84524,OSM,yes
+Dairy 414,dairy,18.86163,73.84953,Field survey,yes
+Dairy 415,dairy,18.86495,73.84651,Udyam,no
+Dairy 416,dairy,18.86291,73.84668,Udyam,no
+Dairy 417,dairy,18.86648,73.8492,OSM,no
+Dairy 418,dairy,18.86264,73.85159,Udyam,yes
+Dairy 419,dairy,18.85717,73.84883,FSSAI,no
+Dairy 420,dairy,18.85833,73.848,FSSAI,yes
+Dairy 421,dairy,18.86215,73.84861,FSSAI,yes
+Dairy 422,dairy,18.86002,73.85408,FSSAI,no
+Dairy 423,dairy,18.85728,73.85165,FSSAI,yes
+Dairy 424,dairy,18.86382,73.85322,Udyam,no
+Dairy 425,dairy,18.86313,73.85134,FSSAI,no
+Dairy 426,dairy,18.86775,73.85017,OSM,yes
+Dairy 427,dairy,18.86837,73.85203,OSM,no
+Dairy 428,dairy,18.86539,73.85002,Field survey,yes
+Dairy 429,dairy,18.86604,73.85157,Udyam,no
+Dairy 430,dairy,18.85932,73.85455,FSSAI,no
+Dairy 431,dairy,18.86473,73.85086,Field survey,yes
+Dairy 432,dairy,18.86533,73.85366,FSSAI,yes
+Kirana store 61,kirana,18.86527,73.84899,Field survey,yes
+Kirana store 62,kirana,18.85979,73.85282,Field survey,yes
+Kirana store 63,kirana,18.85917,73.85715,Udyam,no
+Kirana store 64,kirana,18.86219,73.85266,Field survey,yes
+Kirana store 65,kirana,18.85745,73.85119,OSM,no
+Kirana store 66,kirana,18.8645,73.84746,Field survey,yes
+Tailoring 12,tailoring,18.86411,73.85395,FSSAI,no
+Tea & snacks 45,tea_stall,18.86035,73.85483,Field survey,yes
+Tea & snacks 46,tea_stall,18.86651,73.85273,FSSAI,no
+Tea & snacks 47,tea_stall,18.86193,73.84972,OSM,yes
+Tea & snacks 48,tea_stall,18.85808,73.84874,Field survey,yes
+Dairy 433,dairy,18.89939,73.88577,Field survey,yes
+Dairy 434,dairy,18.90309,73.88202,Udyam,yes
+Dairy 435,dairy,18.90016,73.88277,Field survey,yes
+Dairy 436,dairy,18.90028,73.88252,OSM,no
+Dairy 437,dairy,18.8958,73.87853,Field survey,yes
+Dairy 438,dairy,18.90013,73.88213,Field survey,yes
+Dairy 439,dairy,18.8993,73.88,FSSAI,yes
+Dairy 440,dairy,18.9011,73.88314,Field survey,yes
+Dairy 441,dairy,18.89761,73.88526,FSSAI,yes
+Dairy 442,dairy,18.90001,73.88187,Udyam,no
+Dairy 443,dairy,18.89772,73.8801,OSM,yes
+Dairy 444,dairy,18.90332,73.87718,FSSAI,no
+Dairy 445,dairy,18.89804,73.88723,Field survey,yes
+Dairy 446,dairy,18.89369,73.88229,Field survey,yes
+Dairy 447,dairy,18.89856,73.88314,Field survey,yes
+Dairy 448,dairy,18.89923,73.88348,Field survey,yes
+Dairy 449,dairy,18.90054,73.87898,OSM,yes
+Dairy 450,dairy,18.90062,73.8843,Field survey,yes
+Dairy 451,dairy,18.89804,73.88137,OSM,no
+Dairy 452,dairy,18.89775,73.88357,OSM,yes
+Dairy 453,dairy,18.89665,73.88653,OSM,yes
+Dairy 454,dairy,18.89989,73.88398,OSM,no
+Dairy 455,dairy,18.90094,73.88399,Field survey,yes
+Dairy 456,dairy,18.89967,73.88271,Field survey,yes
+Dairy 457,dairy,18.89899,73.8824,Field survey,yes
+Dairy 458,dairy,18.90248,73.88661,FSSAI,no
+Dairy 459,dairy,18.90203,73.88144,OSM,no
+Dairy 460,dairy,18.9002,73.88543,Udyam,yes
+Dairy 461,dairy,18.89944,73.8868,Field survey,yes
+Dairy 462,dairy,18.89724,73.88499,OSM,no
+Dairy 463,dairy,18.90067,73.88108,OSM,no
+Dairy 464,dairy,18.89931,73.88569,Field survey,yes
+Dairy 465,dairy,18.8984,73.87996,Udyam,yes
+Dairy 466,dairy,18.90185,73.88344,OSM,no
+Dairy 467,dairy,18.89868,73.88028,OSM,no
+Dairy 468,dairy,18.89746,73.8821,FSSAI,yes
+Dairy 469,dairy,18.90003,73.88415,OSM,no
+Dairy 470,dairy,18.89828,73.88318,Field survey,yes
+Dairy 471,dairy,18.90335,73.87862,Field survey,yes
+Dairy 472,dairy,18.8996,73.88297,OSM,no
+Dairy 473,dairy,18.89725,73.88566,FSSAI,no
+Dairy 474,dairy,18.89979,73.88676,Field survey,yes
+Dairy 475,dairy,18.8982,73.8804,OSM,yes
+Dairy 476,dairy,18.89915,73.87605,Field survey,yes
+Kirana store 67,kirana,18.89987,73.88233,OSM,yes
+Kirana store 68,kirana,18.90207,73.88272,FSSAI,no
+Kirana store 69,kirana,18.90034,73.88108,Udyam,no
+Kirana store 70,kirana,18.89827,73.88278,Field survey,yes
+Kirana store 71,kirana,18.90194,73.88211,Field survey,yes
+Tailoring 13,tailoring,18.90148,73.88261,Field survey,yes
+Tailoring 14,tailoring,18.9034,73.88329,OSM,yes
+Flour mill 3,flour_mill,18.90088,73.88138,Field survey,yes
+Poultry (broiler) 5,poultry,18.8997,73.87948,Field survey,yes
+Tea & snacks 49,tea_stall,18.90027,73.8819,FSSAI,no
+Tea & snacks 50,tea_stall,18.89942,73.8775,Field survey,yes
+Tea & snacks 51,tea_stall,18.89595,73.88333,OSM,no
+Tea & snacks 52,tea_stall,18.89705,73.88189,Field survey,yes
